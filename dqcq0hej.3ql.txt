@@ -1,0 +1,32 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# Explicit paths specified without -i nor -o; assuming --only paths...
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   .gitattributes
+#	new file:   .gitignore
+#	new file:   144_1_670_1_ws_532.asc
+#	new file:   144_1_670_1_ws_632.asc
+#	new file:   144_1_670_2_ws_514.asc
+#	new file:   144_1_670_2_ws_635.asc
+#	new file:   144_1_670_2_ws_647.asc
+#	new file:   144_1_670_2_ws_670.asc
+#	new file:   144_1_670_ws_441.asc
+#	new file:   144_1_670_ws_457.asc
+#	new file:   144_1_670_ws_460.asc
+#	new file:   144_1_670_ws_508.asc
+#	new file:   144_2_670_1_ws_532.asc
+#	new file:   144_2_670_1_ws_632.asc
+#	new file:   144_2_670_2_ws_514.asc
+#	new file:   144_2_670_2_ws_635.asc
+#	new file:   144_2_670_2_ws_647.asc
+#	new file:   144_2_670_2_ws_670.asc
+#	new file:   144_2_670_ws_441.asc
+#	new file:   144_2_670_ws_457.asc
+#	new file:   144_2_670_ws_460.asc
+#	new file:   144_2_670_ws_508.asc
+#
+
